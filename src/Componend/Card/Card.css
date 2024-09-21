@@ -1,0 +1,42 @@
+
+
+.card-Wrapper{
+    width: 310px;
+    height: 420px;
+    border: 2px solid black;
+    background-color: #b9b9b9;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px #888;
+   
+    
+}
+.cards-Wrapper img{
+    width: 100%;
+    height: 100%;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    cursor: pointer;
+    
+}
+.Card-Profile-img{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    margin-top: 10%;
+    
+}
+.Card-Profile-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+
